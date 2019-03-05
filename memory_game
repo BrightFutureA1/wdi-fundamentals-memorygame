@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Memory Card Game</title>
+  </head>
+  <body>
+    <h1>Memory Game</h1>
+    <p>
+      <a><a href="#">Instructions</a> <a><a href="#">Game</a>
+  </p>
 
+    <h2>Instructions</h2>
+    <p>Concentration, also known as Match Match, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.</p>
+
+    <h3>Its Addictively Fun!</h3>
+    <p>This game is a must play! Not only is it fun and addictive but it tests your memory and keeps you constantly thinking and forces memorization. Which is necessary to help prevent/reverse Alzheimer's disease. I received numerous feedback from people around the world who can't believe the changes that occurred since engaging in such a challenging memory game.</p>
+
+    <p>
+    	<a>To learn more about my strategies while creating this game <a href="#">Click here.</a>
+    </p>
+    
+    <p>Send me an <a href="mailto:allasia.langston@gmail.com">email.</a></p>
+
+  </body>
+</html>
